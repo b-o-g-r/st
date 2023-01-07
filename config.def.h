@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Hack Nerd Font Mono:style=Regular:pixelsize=16";
+static char *font = "Hack Nerd Font Mono:style=Regular:pixelsize=14";
 static char *sparefonts[] = {
     // Decent icons with comprehensive coverage.
     "Symbols Nerd Font:size=16",
