@@ -1,5 +1,5 @@
 # ST
-Personal ST Setup
+Personal [ST](https://st.suckless.org/) Setup
 
 ## Installation
 * Create a folder for the source files in /etc:
